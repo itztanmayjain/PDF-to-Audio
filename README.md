@@ -16,7 +16,7 @@ The PDF to Audio Converter is a Python beginner project designed to convert PDF 
 Clone the repository from GitHub:
 
 ```bash
- https://github.com/itztanmayjain/AudifyPDF
+ https://github.com/itztanmayjain/PDF-to-Audio
 ```
 Install the required dependencies:
 ```bash
