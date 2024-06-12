@@ -1,4 +1,4 @@
-# AudifyPDF
+# PDF to Audio
 
 The PDF to Audio Converter is a Python beginner project designed to convert PDF documents into audio files. This project utilizes the PyPDF2 library for PDF parsing and the pyttsx3 library for text-to-speech conversion. It provides a simple and easy-to-use interface for converting PDF files into spoken audio, making it convenient for users who prefer to listen to documents rather than read them.
 
